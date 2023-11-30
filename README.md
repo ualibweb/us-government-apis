@@ -118,6 +118,6 @@ _This list is a work in progress, please see [CONTRIBUTING.md](CONTRIBUTING.md) 
 ### Independent Agencies
 | API | Agency | Description | Last Accessed | Cookbook Tutorials |
 | - | - | - | - | - |
-| [NSF Awards]([https://www.sec.gov/os/accessing-edgar-data](https://resources.research.gov/common/webapi/awardapisearch-v1.htm)) | National Science Foundation (NSF) | Data on how federal research dollars are spent, what research is being performed, and the outcomes of the research |  |  |
+| [NSF Awards](https://resources.research.gov/common/webapi/awardapisearch-v1.htm) | National Science Foundation (NSF) | Data on how federal research dollars are spent, what research is being performed, and the outcomes of the research |  |  |
 | [USASpending](https://api.usaspending.gov/) | Office of Management and Budget (OMB) | U.S. government spending data published under the DATA act |  | [Python](https://ualibweb.github.io/UALIB_ScholarlyAPI_Cookbook/content/scripts/python/python_usaspending.html) |
 | [SEC EDGAR](https://www.sec.gov/os/accessing-edgar-data) | U.S. Securities and Exchange Commission (SEC) | Access SEC statements and reports through the Electronic Data Gathering, Analysis, and Retrieval (EDGAR) system |  | [Python](https://ualibweb.github.io/UALIB_ScholarlyAPI_Cookbook/content/scripts/python/python_sec_edgar.html) |
