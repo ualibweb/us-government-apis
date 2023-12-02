@@ -91,7 +91,7 @@ _This list is a work in progress, please see [CONTRIBUTING.md](CONTRIBUTING.md) 
 | API | Agency | Description | Last Accessed | Cookbook Tutorials |
 | - | - | - | - | - |
 | [Department of Labor](https://developer.dol.gov/) | Department of Labor | Data drawn from various DOL subagencies |  |  |
-| [BLS Public Data](https://www.bls.gov/developers/) | Bureau of Labor Statistics (BLS) | Price, employment, compensation, and productivity statistics |  | Coming Soon |
+| [BLS Public Data](https://www.bls.gov/developers/) | Bureau of Labor Statistics (BLS) | Price, employment, compensation, and productivity statistics |  | [Python](https://ualibweb.github.io/UALIB_ScholarlyAPI_Cookbook/content/scripts/python/python_bls.html) |
 
 ### Department of State
 | API | Agency | Description | Last Accessed | Cookbook Tutorials |
@@ -115,9 +115,9 @@ _This list is a work in progress, please see [CONTRIBUTING.md](CONTRIBUTING.md) 
 | - | - | - | - | - |
 |  |  |  |  |  |
 
-### Other Agencies
+### Independent Agencies
 | API | Agency | Description | Last Accessed | Cookbook Tutorials |
 | - | - | - | - | - |
+| [NSF Awards](https://resources.research.gov/common/webapi/awardapisearch-v1.htm) | National Science Foundation (NSF) | Data on how federal research dollars are spent, what research is being performed, and the outcomes of the research |  |  |
 | [USASpending](https://api.usaspending.gov/) | Office of Management and Budget (OMB) | U.S. government spending data published under the DATA act |  | [Python](https://ualibweb.github.io/UALIB_ScholarlyAPI_Cookbook/content/scripts/python/python_usaspending.html) |
 | [SEC EDGAR](https://www.sec.gov/os/accessing-edgar-data) | U.S. Securities and Exchange Commission (SEC) | Access SEC statements and reports through the Electronic Data Gathering, Analysis, and Retrieval (EDGAR) system |  | [Python](https://ualibweb.github.io/UALIB_ScholarlyAPI_Cookbook/content/scripts/python/python_sec_edgar.html) |
-
