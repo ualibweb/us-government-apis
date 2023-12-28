@@ -40,7 +40,8 @@ _This list is a work in progress, please see [CONTRIBUTING.md](CONTRIBUTING.md) 
 ### Department of Education
 | API | Agency | Description | Last Accessed | Cookbook Tutorials |
 | - | - | - | - | - |
-| [Education Stabilization Fund (ESF) Public Transparency](https://covid-relief-data.ed.gov/api-documentation) |  | Access data on the use of ESF grants by governments, school districts, colleges, and universities |  |
+| [Education Stabilization Fund (ESF) Public Transparency](https://covid-relief-data.ed.gov/api-documentation) |  | Access data on the use of ESF grants by governments, school districts, colleges, and universities |  |  |
+| [College Scorecard](https://collegescorecard.ed.gov/data/documentation/) | National Center for Education Statistics (NCES) | Online tool to compare cost and value of higher education institutions in the United States |  |  |
 
 ### Department of Energy
 | API | Agency | Description | Last Accessed | Cookbook Tutorials |
