@@ -125,9 +125,6 @@ _This list is a work in progress, please see [CONTRIBUTING.md](CONTRIBUTING.md) 
 | [Envirofacts Data Service](https://www.epa.gov/enviro/envirofacts-data-service-api) | Environmental Protection Agency (EPA) | Environmental data from databases managed by the EPA |  |  |
 | [Facility Registration Service (FRS)](https://www.epa.gov/frs/facility-registry-service-frs-api) | Environmental Protection Agency (EPA) | Database identifying places of environmental interest for the EPA |  |  |
 | [WATERS Services](https://watersgeo.epa.gov/openapi/waters/) | Environmental Protection Agency (EPA) | Water quality data published by the EPA Office of Water |  |  |
-| []() | Environmental Protection Agency (EPA) |  |  |  |
-| []() | Environmental Protection Agency (EPA) |  |  |  |
-| []() | Environmental Protection Agency (EPA) |  |  |  |
 | [NSF Awards](https://resources.research.gov/common/webapi/awardapisearch-v1.htm) | National Science Foundation (NSF) | Data on how federal research dollars are spent, what research is being performed, and the outcomes of the research |  |  |
 | [USASpending](https://api.usaspending.gov/) | Office of Management and Budget (OMB) | U.S. government spending data published under the DATA act |  | [Python](https://ualibweb.github.io/UALIB_ScholarlyAPI_Cookbook/content/scripts/python/python_usaspending.html) |
 | [SEC EDGAR](https://www.sec.gov/os/accessing-edgar-data) | U.S. Securities and Exchange Commission (SEC) | Access SEC statements and reports through the Electronic Data Gathering, Analysis, and Retrieval (EDGAR) system |  | [Python](https://ualibweb.github.io/UALIB_ScholarlyAPI_Cookbook/content/scripts/python/python_sec_edgar.html) |
